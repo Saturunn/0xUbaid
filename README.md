@@ -1,7 +1,7 @@
 <!-- 💀 0xUbaid | Cyberpunk Hacker Edition (with animated ASCII banner + dynamic quote) -->
 <p align="center">
   <!-- Upload your GIF to ./assets/banner.gif in the repo, or replace the path with an external GIF URL -->
-  <img src="./assets/banner.gif" alt="0xUbaid banner" width="100%" />
+  <img src="./banner_0xUbaid.gif" alt="0xUbaid banner" width="100%" />
 </p>
 
 <h3 align="center">
