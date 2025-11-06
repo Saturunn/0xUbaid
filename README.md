@@ -4,6 +4,13 @@
   <img src="./banner_0xUbaid.gif" alt="0xUbaid banner" width="100%" />
 </p>
 
+<!-- HACKER MODE: Minimalist Dark Terminal README -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Access+Granted...;Welcome+to+0xUbaid's+Terminal;Executing+main.sh...;System+Status:+Online+%E2%9C%94;Compiling+Dreams+into+Reality..." alt="hacker-terminal-banner" />
+</p>
+
+---
+
 <h3 align="center">
 ☕ Caffeine-powered human | 💾 Half Compiler | 🧠 Full-time Overthinker  
 </h3>
@@ -32,13 +39,15 @@
 
 ---
 
-### 🔧 Tech Stack
+### 🧩 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Assembly-8086-blue?style=for-the-badge&logo=amd" />
-  <img src="https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-Sarcastic🐍-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Linux-Root_Access-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Coffee-Dependency☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembly-8086-00ff00?style=flat-square&logo=amd&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/C_language-00599C-00ff00?style=flat-square&logo=c&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Python-000000-00ff00?style=flat-square&logo=python&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Linux-000000-00ff00?style=flat-square&logo=linux&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Bash-1f1f1f-00ff00?style=flat-square&logo=gnu-bash&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/Node.js-1f1f1f-00ff00?style=flat-square&logo=node.js&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/VSCode-1f1f1f-00ff00?style=flat-square&logo=visual-studio-code&logoColor=00ff00" />
 </p>
 
 ---
@@ -67,10 +76,28 @@
 
 ---
 
+### ⚙️ System Info
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saturnunn.Saturnunn&right_color=007700&left_color=00ff00" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Status-Online-00ff00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Hacker_Terminal-007700?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee_Loaded-true-00ff00?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Companion-Active-007700?style=flat-square" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saturunn&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saturunnn&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" height="160"/>
+</p>
+
+---
+
+### 🧠 System Activity
+<p align="center">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=Saturunn&bg_color=0d1117&color=00ff00&line=00ff00&point=007700&area=true&hide_border=true" alt="terminal-activity-graph" />
 </p>
 
 ---
